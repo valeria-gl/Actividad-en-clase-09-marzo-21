@@ -1,2 +1,2 @@
-# Actividad-en-clase-04-feb-21
+# Metodo-get-vecinos
 Proyecto inicial de programación orientada a objetos 
